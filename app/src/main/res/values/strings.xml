@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameBoss</string>
+    <string name="play_game">Add to Cart</string>
+    <string name="title">Title:</string>
+    <string name="genre">Genre:</string>
+    <string name="developer">Developer:</string>
+    <string name="publisher">Publisher:</string>
+    <string name="release_date">Release:</string>
+    <string name="windows">Windows</string>
+
+</resources>
